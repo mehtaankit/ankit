@@ -1,0 +1,2 @@
+1)- What is issat ?
+Ans : The isset () function is used to check whether a variable is set or not. If a variable is already unset with unset()function, it will no longer be set. The isset() function return false if testing variable contains a NULL value.
